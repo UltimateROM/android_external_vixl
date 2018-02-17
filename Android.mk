@@ -84,7 +84,6 @@ vixl_cpp_flags := \
   -DUSE_SIMULATOR \
   -Wall \
   -Wextra \
-  -Werror \
   -fdiagnostics-show-option \
   -Wredundant-decls \
   -Wunreachable-code \
